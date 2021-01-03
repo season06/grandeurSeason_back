@@ -3,7 +3,8 @@ package routes
 import (
 	"net/http"
 
-	"../controllers"
+	"grandeurSeason/controllers"
+
 	"github.com/gorilla/mux"
 	// "fmt"
 )

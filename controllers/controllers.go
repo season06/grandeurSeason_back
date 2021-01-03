@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"../model"
+	"grandeurSeason/model"
 )
 
 var (

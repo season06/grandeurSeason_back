@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"./routes"
+	"grandeurSeason/routes"
 )
 
 func main() {
